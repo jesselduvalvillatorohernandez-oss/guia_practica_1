@@ -1,1 +1,4 @@
+HEAD
 notepad practica.txt
+practica.txt
+cambio desde github web
