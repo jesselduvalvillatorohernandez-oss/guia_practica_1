@@ -1,1 +1,1 @@
-practica.txt
+notepad practica.txt
